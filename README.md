@@ -2,10 +2,15 @@
 
 Welcome to the Learning Git repository! This repository is designed to help students learn how to use Git as a version control system, specifically in the context of Android Studio projects.
 
+#Taylor Swift is the best
+
 ## Introduction
 
 Git is a powerful tool used by software developers to manage changes to their code. By learning Git, you'll be able to keep track of your project's history, collaborate with others more effectively, and undo changes if something goes wrong.
-
+WE were both young when i first saw you
+closed my eyes and the flashback starts
+we're standing there
+on a balcony in summer air!!!
 In this repository, you'll find exercises and resources to help you understand the basics of Git and how to use it within the Android Studio environment.
 
 ## Getting Started
